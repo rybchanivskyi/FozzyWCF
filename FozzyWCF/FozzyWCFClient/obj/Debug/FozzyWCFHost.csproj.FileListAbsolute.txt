@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCFClient.exe.config
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCFClient.exe
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCFClient.pdb
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCF.dll
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCF.pdb
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\bin\Debug\FozzyWCF.dll.config
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\obj\Debug\FozzyWCFHost.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\obj\Debug\FozzyWCFHost.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\obj\Debug\FozzyWCFHost.csproj.CopyComplete
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\obj\Debug\FozzyWCFClient.exe
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCFClient\obj\Debug\FozzyWCFClient.pdb
