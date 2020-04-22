@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FozzyWCF", "FozzyWCF\FozzyWCF.csproj", "{456F5D07-E6FA-45BC-A681-D36AF135BEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FozzyWCFHost", "FozzyWCFClient\FozzyWCFHost.csproj", "{D614F6C2-654B-4997-9478-4B01C686DE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456F5D07-E6FA-45BC-A681-D36AF135BEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456F5D07-E6FA-45BC-A681-D36AF135BEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456F5D07-E6FA-45BC-A681-D36AF135BEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456F5D07-E6FA-45BC-A681-D36AF135BEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D614F6C2-654B-4997-9478-4B01C686DE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D614F6C2-654B-4997-9478-4B01C686DE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D614F6C2-654B-4997-9478-4B01C686DE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D614F6C2-654B-4997-9478-4B01C686DE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791901B0-1FC4-46C7-B89D-30D58B2C8D8C}
+	EndGlobalSection
+EndGlobal

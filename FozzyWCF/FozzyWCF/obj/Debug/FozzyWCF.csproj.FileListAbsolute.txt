@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\bin\Debug\FozzyWCF.dll.config
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\bin\Debug\FozzyWCF.dll
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\bin\Debug\FozzyWCF.pdb
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\obj\Debug\FozzyWCF.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\obj\Debug\FozzyWCF.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\obj\Debug\FozzyWCF.dll
+C:\Users\victo\source\repos\FozzyWCF\FozzyWCF\obj\Debug\FozzyWCF.pdb
